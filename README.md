@@ -74,6 +74,7 @@ python enhanced_citation_extraction.py
 
 Developed during a 6-month Research Assistantship at Sunway Business School. The pipeline was built to replace a fully manual citation review process that previously took hours per thesis. It has been presented to faculty and is currently under consideration for university-wide adoption, with a related paper pending publication.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B)](https://citation-quality-pipeline.streamlit.app)
 ---
 
 ## Author
