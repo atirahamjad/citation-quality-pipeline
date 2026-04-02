@@ -1,0 +1,227 @@
+
+================================================================================
+THESIS QUALITY REPORT (HYBRID RESEARCH-BACKED METHODOLOGY)
+================================================================================
+Literature Review Quality Assessment
+
+Generated: 2026-02-01 11:08:38
+
+================================================================================
+METHODOLOGY
+================================================================================
+
+This assessment employs a HYBRID approach combining two research-backed methods:
+
+1. REFERENCE CLASSIFICATION (Percentile-Based):
+   Following Waltman & Schreiber (2013), individual references are classified
+   using percentile ranks, comparing each reference to others within the thesis.
+
+   Thresholds (adaptive to your thesis):
+     • Excellent: Top 25% (≥0.047)
+     • Good: 50-75th percentile (0.030-0.047)
+     • Fair: 25-50th percentile (0.004-0.030)
+     • Poor: Bottom 25% (<0.004)
+
+2. THESIS CLASSIFICATION (Absolute Standards):
+   Following Hicks et al. (2015) and Costas et al. (2013), overall thesis
+   quality is assessed against absolute minimum standards, avoiding the
+   circular logic of self-referential percentiles.
+
+   Thresholds (field-normalized for systematic reviews):
+     • High Quality (A): ≥0.35 (Huang 2008)
+     • Medium Quality (B): ≥0.20 (Gomaa & Fahmy 2013)
+     • Low Quality (C): <0.20
+
+Rationale for Hybrid Approach:
+  The Leiden Manifesto (Hicks et al., 2015) recommends using multiple
+  indicators for different purposes. Percentile-based classification is
+  appropriate for comparing publications WITHIN a field (Waltman & Schreiber,
+  2013), while absolute thresholds are needed when assessing against minimum
+  standards (Wilsdon et al., 2015). Using percentiles for thesis-level
+  classification would create invalid self-referential comparison (Costas
+  et al., 2013).
+
+================================================================================
+OVERALL QUALITY METRICS
+================================================================================
+
+Overall Quality Score: 0.0330
+Classification: Low Quality Literature Review
+Grade: C
+
+Mean Internal Association: 0.0265
+  (How relevant citations are to thesis topic)
+
+Mean External Association: 0.0395
+  (How accurately citations represent their sources)
+
+Interpretation:
+This indicates citation quality below the minimum threshold for meaningful textual relationship (Gomaa & Fahmy, 2013). Significant quality concerns that should be addressed through revision.
+
+================================================================================
+REFERENCE ANALYSIS (50 references)
+================================================================================
+
+Quality Distribution (Percentile-Based):
+  Excellent (Top 25%):    13 references (26.0%)
+  Good (50-75th):         12 references (24.0%)
+  Fair (25-50th):         12 references (24.0%)
+  Poor (Bottom 25%):      13 references (26.0%)
+
+Note: Reference classifications are RELATIVE (comparing within this thesis).
+      Thesis classification is ABSOLUTE (against external standards).
+
+Citation Statistics:
+  Total citation occurrences: 50
+  Average citations per reference: 1.00
+  Most frequently cited: REF_001 (1 times)
+
+Variability:
+  Quality score range: 0.0000 to 0.1086
+  Standard deviation: 0.0287
+
+================================================================================
+TOP 10 HIGHEST QUALITY REFERENCES
+================================================================================
+
+REF_041: Quality 0.109 (Excellent)
+  Internal: 0.021, External: 0.196
+  Cited: 1x
+  Title: Effects of interactivity in a web site: The moderating effect of need ...
+
+REF_027: Quality 0.096 (Excellent)
+  Internal: 0.043, External: 0.150
+  Cited: 1x
+  Title: Seeing is believing: The effect of brain images on judgments of scient...
+
+REF_039: Quality 0.090 (Excellent)
+  Internal: 0.088, External: 0.092
+  Cited: 1x
+  Title: What are the Social Sciences? Encyclopedia of the Social Sciences, 1...
+
+REF_019: Quality 0.076 (Excellent)
+  Internal: 0.051, External: 0.101
+  Cited: 1x
+  Title: Scientese and ambiguous citations in the selling of unproven medical t...
+
+REF_040: Quality 0.072 (Excellent)
+  Internal: 0.009, External: 0.136
+  Cited: 1x
+  Title: The psychology of social norms...
+
+REF_009: Quality 0.070 (Excellent)
+  Internal: 0.054, External: 0.085
+  Cited: 1x
+  Title: Dispositional differences in cognitive motivation: The life and times ...
+
+REF_007: Quality 0.069 (Excellent)
+  Internal: 0.032, External: 0.105
+  Cited: 1x
+  Title: The need for cognition...
+
+REF_026: Quality 0.063 (Excellent)
+  Internal: 0.046, External: 0.080
+  Cited: 1x
+  Title: Knowledge for what: The place of social science in American culture...
+
+REF_013: Quality 0.063 (Excellent)
+  Internal: 0.054, External: 0.072
+  Cited: 1x
+  Title: To prosper, organizational psychology should… overcome methodological ...
+
+REF_043: Quality 0.063 (Excellent)
+  Internal: 0.022, External: 0.104
+  Cited: 1x
+  Title: Blinded with science: Trivial graphs and formulas increase ad persuasi...
+
+
+================================================================================
+FOR YOUR METHODOLOGY SECTION
+================================================================================
+
+Suggested text for your thesis/paper:
+
+"A quality assessment of the literature review was conducted using a hybrid
+methodology combining percentile-based and absolute threshold classification.
+
+Individual references were classified using percentile ranks (Waltman &
+Schreiber, 2013), with the top 25% designated as 'Excellent' quality. This
+adaptive approach accounts for the specific characteristics of this systematic
+review and provides valid within-thesis comparison.
+
+Overall thesis quality was assessed using absolute thresholds (≥0.35 for High
+Quality, ≥0.20 for Medium Quality) to ensure minimum academic standards are
+met (Hicks et al., 2015). These thresholds are field-normalized based on
+empirical research on TF-IDF similarity measures for systematic reviews
+(Huang, 2008; Gomaa & Fahmy, 2013) and avoid the circular logic of
+self-referential percentile classification (Costas et al., 2013).
+
+The literature review comprised 50 references with 50 total citation
+occurrences. Quality analysis revealed a mean internal association score of
+0.026 and mean external association score of 0.039,
+resulting in an overall quality score of 0.033.
+
+Of the 50 references analyzed, 13 (26.0%) were in the top quartile
+(excellent quality relative to other references in this thesis), 12 (24.0%)
+in the second quartile (good quality), 12 (24.0%) in the third quartile
+(fair quality), and 13 (26.0%) in the bottom quartile (poor quality).
+
+The overall thesis quality score of 0.033 falls below the minimum threshold for meaningful textual relationship (<0.20), indicating quality concerns requiring revision."
+
+================================================================================
+RESEARCH REFERENCES
+================================================================================
+
+PRIMARY REFERENCES (Classification Methodology):
+
+1. Waltman, L., & Schreiber, M. (2013). On the calculation of percentile-based
+   bibliometric indicators. Journal of Informetrics, 7(3), 833-839.
+   [Justifies percentile-based classification for references]
+
+2. Hicks, D., Wouters, P., Waltman, L., de Rijcke, S., & Rafols, I. (2015).
+   Bibliometrics: The Leiden Manifesto for research metrics.
+   Nature, 520(7548), 429-431.
+   [Justifies using multiple indicators and avoiding circular logic]
+
+3. Costas, R., van Leeuwen, T. N., & Bordons, M. (2013). A bibliometric
+   classificatory approach for the study and assessment of research performance
+   at the individual level. Journal of the American Society for Information
+   Science and Technology, 61(8), 1564-1581.
+   [Warns against self-referential percentiles]
+
+4. Bornmann, L., & Marx, W. (2014). How to evaluate individual researchers
+   working in the natural and life sciences meaningfully? A proposal of methods
+   based on percentiles of citations. Scientometrics, 98(1), 487-509.
+   [Distinguishes percentiles for comparison vs. thresholds for standards]
+
+5. Wilsdon, J., Allen, L., Belfiore, E., et al. (2015). The Metric Tide:
+   Report of the Independent Review of the Role of Metrics in Research
+   Assessment and Management. DOI: 10.13140/RG.2.1.4929.1363
+   [Justifies fixed thresholds for standard assessment]
+
+SUPPORTING REFERENCES (Threshold Values):
+
+6. Gomaa, W. H., & Fahmy, A. A. (2013). A survey of text similarity approaches.
+   International Journal of Computer Applications, 68(13), 13-18.
+   [Establishes 0.20 as minimum meaningful similarity]
+
+7. Huang, A. (2008). Similarity measures for text document clustering.
+   Proceedings of the New Zealand Computer Science Research Student Conference.
+   [Establishes 0.3-0.5 range for related documents, 0.2-0.4 for systematic reviews]
+
+8. Gough, D., Oliver, S., & Thomas, J. (2012). An introduction to systematic
+   reviews. Sage Publications.
+   [Explains why systematic reviews have lower similarity scores]
+
+9. van Raan, A. F. (2006). Statistical properties of bibliometric indicators:
+   Research group indicator distributions and correlations. Journal of the
+   American Society for Information Science and Technology, 57(3), 408-430.
+   [Supports absolute performance levels over relative position]
+
+10. San Francisco Declaration on Research Assessment (DORA). (2012).
+    https://sfdora.org/read/
+    [Recommends assessing research on merits, not relative metrics alone]
+
+================================================================================
+END OF REPORT
+================================================================================
