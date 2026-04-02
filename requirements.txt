@@ -3,3 +3,5 @@ rapidfuzz
 pandas
 openpyxl
 requests
+streamlit
+plotly
