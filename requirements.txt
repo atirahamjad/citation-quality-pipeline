@@ -1,0 +1,5 @@
+pdfplumber
+rapidfuzz
+pandas
+openpyxl
+requests
