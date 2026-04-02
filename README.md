@@ -80,4 +80,4 @@ Developed during a 6-month Research Assistantship at Sunway Business School. The
 ## Author
 
 **Atirah Amjad** — Master of Business Analytics (Distinction), Sunway University  
-[LinkedIn] (https://www.linkedin.com/in/atirah-amjad-148092223/)
+[LinkedIn] (https://www.linkedin.com/in/atirah-amjad/)
